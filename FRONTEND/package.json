@@ -7,8 +7,13 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "axios": "^0.21.1",
+<<<<<<< HEAD
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
+=======
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+>>>>>>> c822c73ea00b7159b1dea880b6e6a185f5dfc8fc
     "react-icons": "^3.9.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "^4.0.3"
